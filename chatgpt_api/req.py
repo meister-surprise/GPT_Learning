@@ -1,7 +1,7 @@
 import requests
 
 # Flask 앱의 URL
-url = 'http://127.0.0.1:5001/chat'
+url = 'https://port-0-gpt-learning-jvpb2alnmi0kxx.sel5.cloudtype.app/chat'
 
 # POST 요청에 보낼 데이터
 data = {'user_input': '사용자의 입력 메시지'}
